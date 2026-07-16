@@ -57,13 +57,13 @@ author:
 
  # Social media
   artstation : # Username
-  bluesky : "bsky.app" # Replace this with you Bluesky username
+  bluesky : # Replace this with you Bluesky username
   facebook : # Username
   flickr : # Username
   foursquare : # Username
   goodreads : # Username
   google_plus : # Username
-  keybase          : # Username
+  keybase : # Username
   instagram        : # Username
   lastfm           : # Username
   linkedin         : # Username
