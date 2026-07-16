@@ -25,7 +25,7 @@ author:
  # Biographic information
   avatar : "profile.png"
   name : "Kailin Wang"
-  pronouns : "he/him"# example: "he/her"  
+  pronouns : "he/him"# example: "he/her" 
   bio : "A master's student at SCUT working on RL and swarm intelligence. Previously, I studied at Central South University"
   location : "Guangzhou, China"
   employer : "South China University of Technology"
@@ -35,13 +35,13 @@ author:
  # Academic websites
   academia : # URL
   arxiv : # URL - Update with the correct link to your profile
-  googlescholar : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar : 
   inspire-hep : # URL
   impactstory : # URL
-  orcid : "https://orcid.org/yourorcidurl"
+  orcid : 
   semantic : # URL
   ssrn : # URL
-  pubmed : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed : 
   researchgate : # URL
   scopus : # URL
   zotero : # URL
